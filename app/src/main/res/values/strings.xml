@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string-array name="srodowisko">
+        <item>wodne</item>
+        <item>lądowe</item>
+        <item>powietrzne</item>
+    </string-array>
 </resources>
