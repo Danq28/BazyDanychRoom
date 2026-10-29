@@ -51,6 +51,13 @@
             android:layout_height="wrap_content"
             android:text="Dodaj do bazy" />
 
+        <Button
+            android:id="@+id/buttonAktualizuj"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Uaktualnij zwierzę"
+            android:visibility="invisible"/>
+
         <ListView
             android:id="@+id/zwierzetalist"
             android:layout_width="match_parent"

@@ -37,4 +37,7 @@ public class Zwierze {
                 "srodowsikoZycia: " +srodowiskoZycia;
 
     }
+
+    public void add(Zwierze zwierze) {
+    }
 }
