@@ -30,4 +30,11 @@ public class Zwierze {
 
     public Zwierze() {
     }
+
+    @Override
+    public String toString(){
+        return "gatunek: " + gatunek +"\n" +
+                "srodowsikoZycia: " +srodowiskoZycia;
+
+    }
 }
